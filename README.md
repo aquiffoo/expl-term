@@ -34,3 +34,6 @@ cargo run --release
 
 ## Dependencies
 This project uses crossterm for UI rendering.
+
+## Known bugs
+1. Release build doesn't open files with Vim. to fix soon
